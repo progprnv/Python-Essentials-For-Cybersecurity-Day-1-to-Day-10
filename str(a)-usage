@@ -1,0 +1,9 @@
+a=10
+b=30
+print("value of a="+str(a)+"value of b ="+str(b))
+
+
+#next is for input and output
+a=input("enter a number")
+print("value of a="+str(a))
+
