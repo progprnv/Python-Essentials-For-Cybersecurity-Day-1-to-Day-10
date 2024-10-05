@@ -7,41 +7,6 @@ This course is perfect for beginners and those looking to enhance their programm
 
 By the end of the course, you will have the knowledge to build a simple cybersecurity tool, integrating various concepts and techniques learned throughout the ten days. This hands-on approach ensures you gain practical skills that are directly applicable to real-world cybersecurity challenges.
 
-Clone this repository to access all the materials and code examples to follow along with the course. 
-
-qn 1
-
-Create a Book class with the following attributes:
+Clone this repository to access all the materials and code examples.
 
 
-- title
-- author
-- publication_date
-- borrowed (boolean)
-
-
-Methods:
-
-
-- borrow()
-- return_book()
-- display_details()
-
-
-Write a Python program to:
-
-
-1. Create a Book object
-2. Borrow the book
-3. Display book details
-4. Return the book
-
-
-qn 2:
-Write a program to print the elements of a 2D array using nested for loops.
-
-
-Scenario: A data analyst wants to display customer data.
-
-
-Input: [["John", 25], ["Jane", 30], ["Bob", 35]]
