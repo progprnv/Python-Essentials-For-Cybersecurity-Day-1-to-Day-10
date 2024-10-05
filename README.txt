@@ -38,3 +38,10 @@ Write a Python program to:
 
 
 qn 2:
+Write a program to print the elements of a 2D array using nested for loops.
+
+
+Scenario: A data analyst wants to display customer data.
+
+
+Input: [["John", 25], ["Jane", 30], ["Bob", 35]]
