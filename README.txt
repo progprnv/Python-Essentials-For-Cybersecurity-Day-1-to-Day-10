@@ -9,3 +9,32 @@ By the end of the course, you will have the knowledge to build a simple cybersec
 
 Clone this repository to access all the materials and code examples to follow along with the course. 
 
+qn 1
+
+Create a Book class with the following attributes:
+
+
+- title
+- author
+- publication_date
+- borrowed (boolean)
+
+
+Methods:
+
+
+- borrow()
+- return_book()
+- display_details()
+
+
+Write a Python program to:
+
+
+1. Create a Book object
+2. Borrow the book
+3. Display book details
+4. Return the book
+
+
+qn 2:
